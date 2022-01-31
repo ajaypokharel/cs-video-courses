@@ -71,6 +71,7 @@ Courses
 ### Data Structures and Algorithms
 
 - [6.006 - Introduction to Algorithms, MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/)
+- [Algorithms and Data Structures Tutorial- freeCodeCamp](https://youtu.be/8hly31xKli0)
 - [Algorithms: Design and Analysis 1 - Stanford University](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q0xr1PIAriY5623cKiH7V)
 - [Algorithms: Design and Analysis 2 - Stanford University](https://www.youtube.com/playlist?list=PLXFMmlk03Dt5EMI2s2WQBsLsZl7A5HEK6)
 - [COS 226 Algorithms, Youtube, Princeton - by Robert Sedgewick and Kevin Wayne](https://www.youtube.com/watch?v=1QZDe28peZk&list=PLRdD1c6QbAqJn0606RlOR6T3yUqFWKwmX&index=1)
@@ -98,6 +99,7 @@ Courses
 - [Programming, Data structures and Algorithms - IIT Madras](https://nptel.ac.in/courses/106106133/)
 - [Programming, Data Structures and Algorithms in Python - IIT Madras](https://nptel.ac.in/courses/106106145/)
 - [Programming and Data structures (PDS) - IIT Madras](https://nptel.ac.in/courses/106106130/)
+- [Algorithms - Abdul Bari](https://youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
 - [COP 5536 Advanced Data Structures, Prof Sahni - UFL](http://www.cise.ufl.edu/~sahni/cop5536/index.html) ([Videos](http://www.cise.ufl.edu/academics/courses/preview/cop5536sahni/))
 - [CS 261 - A Second Course in Algorithms, Stanford University](http://theory.stanford.edu/~tim/w16/w16.html) ([Youtube](https://www.youtube.com/playlist?list=PLEGCF-WLh2RJh2yDxlJJjnKswWdoO8gAc))
 - [Informatics 2B - Algorithms, Data Structures and Learning- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2013/inf2b-adsl.htm)
@@ -117,6 +119,7 @@ Courses
 - [Parallel Algorithm - IIT Kanpur](https://nptel.ac.in/courses/106104120/)
 - [Graph Theory - IISC Bangalore](https://nptel.ac.in/courses/106108054/)
 - [Data Structures - mycodeschool](https://www.youtube.com/watch?v=92S4zgXN17o&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
+
 
 ---------------------------------
 
